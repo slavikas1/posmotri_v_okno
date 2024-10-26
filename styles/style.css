@@ -81,8 +81,8 @@ ol {
   width: fit-content;
   display: flex;
   gap: 6px;
-  cursor: pointer;
   align-items: center;
+  cursor: pointer;
 }
 
 .search-form__label:hover .search-form__label-text {
